@@ -1,4 +1,4 @@
-# HTF22-Team-85
+# HTF22-Team-85 - PS-26 - Placements Management System
 
 ## Problem Statement 
 
